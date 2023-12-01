@@ -27,7 +27,7 @@ const AboutSidebar = () => {
         <div className="flex cursor-pointer flex-col gap-y-4 text-center">
           <div className="flex items-center gap-x-3">
             <a
-              href="https://drive.google.com/file/d/1qB6QcXPjW34v3nZpDmacq93CAC9CUm1Y/view?usp=sharing"
+              href="https://drive.google.com/file/d/1kaeosKwRxW4DermkL9CE-9DPLD4B4Gi8/view?usp=drive_link"
               rel="noreferrer noopener"
               target="_blank"
               className="flex basis-[90%] items-center justify-center gap-x-2 rounded-md border bg-secondary/50 py-2 text-center text-lg font-semibold"

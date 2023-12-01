@@ -11,7 +11,8 @@
     "type-check": "tsc --noEmit",
     "fmt:check": "prettier --check \"**/*.{ts,tsx,mdx,json}\" --cache",
     "fmt:write": "prettier --write \"**/*.{ts,tsx,mdx,json}\" --cache",
-    "prepare": "husky install"
+    "prepare": "husky install",
+    "deploy": ""
   },
   "dependencies": {
     "@radix-ui/react-checkbox": "^1.0.4",

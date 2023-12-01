@@ -35,9 +35,9 @@ export default function About() {
                 className="absolute -right-4 -top-6 -z-10 h-24 w-24 -rotate-12 text-secondary duration-1000 animate-in slide-in-from-left-full"
                 aria-hidden="true"
               />
-              I don't always write code, but when I do, I make definite sure
-              it's the kind that keeps me up at whole night wondering why it
-              won't work. Coding for me is like humour, i don't like explaining
+              I don&apos;t always write code, but when I do, I make definite sure
+              it&apos;s the kind that keeps me up at whole night wondering why it
+              won&apos;t work. Coding for me is like humour, i don&apos;t like explaining
               it.
             </blockquote>
           </div>
@@ -60,9 +60,7 @@ export default function About() {
             className="w-full rounded-md object-cover"
           />
 
-          <span className="text-center text-foreground/50">
-            Setup I plan to build one day
-          </span>
+          <span className="text-center text-foreground/50">My Playground</span>
         </div>
       </section>
 
