@@ -27,7 +27,7 @@ const AboutSidebar = () => {
         <div className="flex cursor-pointer flex-col gap-y-4 text-center">
           <div className="flex items-center gap-x-3">
             <a
-              href="https://drive.google.com/file/d/1kaeosKwRxW4DermkL9CE-9DPLD4B4Gi8/view?usp=drive_link"
+              href="https://drive.google.com/file/d/19hAjtSUDH2WIVOIIZkZvTDQx0RQT3uIJ/view?usp=sharing"
               rel="noreferrer noopener"
               target="_blank"
               className="flex basis-[90%] items-center justify-center gap-x-2 rounded-md border bg-secondary/50 py-2 text-center text-lg font-semibold"
@@ -37,8 +37,8 @@ const AboutSidebar = () => {
 
             <a
               target="_blank"
-              href="https://cdn.jsdelivr.net/gh/jitendrakumar1092/MyResume/jitendrakumar_glau.pdf"
-              download="YourResume.pdf"
+              href="https://cdn.jsdelivr.net/gh/jitendrakumar1092/MyResume/Jitendra_kumar.pdf"
+              download="Jitendra's Resume.pdf"
               title="Download Resume"
               className="flex basis-[15%] items-center justify-center rounded-md border bg-secondary/50 py-3 text-center text-lg hover:underline md:basis-[10%]"
             >

@@ -21,7 +21,7 @@ export const metadata: Metadata = {
   authors: [
     {
       name: "Jitendra Kumar Yadav",
-      url: "https://rajputhemant.me",
+      url: "https://hellojeet.me",
     },
   ],
   creator: "shadcn",
@@ -65,7 +65,7 @@ const RootLayout = ({ children }: { children: React.ReactNode }) => {
     <html lang="en" suppressHydrationWarning>
       <body
         className={cn(
-          "min-h-screen bg-[url('/images/noise.png')]",
+          "min-h-screen layout bg-[url('/images/noise.png')]",
           fontSans.variable,
           poppins.variable,
           incognito.variable

@@ -58,6 +58,7 @@ export default function Projects() {
                     <a
                       href={live}
                       target="_blank"
+                      rel="noreferrer noopener"
                       className="z-10 my-auto -mt-1 rounded-md border border-transparent p-1 text-foreground/50 duration-300 hover:border-border hover:text-foreground"
                     >
                       <Eye className="h-5 w-5" />

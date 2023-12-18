@@ -11,7 +11,7 @@ export const projects: Project[] = [
       "🎵 A Movie streaming  Web App made with React.js 18, SCSS, Axios and   TMDB API",
     projectUrl: {
       github: "https://github.com/JitendraKumar1092/Stream-Finder",
-      live: "streamfind-web.vercel.app",
+      live: "https://streamfind-web.vercel.app",
     },
   },
 
@@ -62,8 +62,8 @@ export const projects: Project[] = [
     description:
       " an innovative full(MERN) stack AI image generation application ",
     projectUrl: {
-      github: "https://imginary.jitendrakumar.me",
-      live: "https://imginary.jitendrakumar.m",
+      github: "https://github.com/jitendrakumar1092/imaginary",
+      live: "https://imaginary-ai.vercel.app/",
     },
   },
 
@@ -91,7 +91,7 @@ export const projects: Project[] = [
       "A Minimal Portfolio website with TypeScript, Tailwind CSS, and pre-configured with ESLint, Prettier, and Husky.",
     projectUrl: {
       github: "https://github.com/Jitendrakumar1092",
-      live: "https://github.com/Jitendrakumar1092",
+      live: "https://hellojeet.me",
     },
   },
 
